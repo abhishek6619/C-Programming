@@ -1,7 +1,7 @@
 /*====================== Function & Recursion ======================*/
 
 /*
-    Function :- Block of code that performs particular task.
+    Function:- Block of code that performs a particular task.
         Take Argument -> Do Work -> Return Result
 
         It can be used multiple times
@@ -30,13 +30,13 @@
             }
 
         Properties:
-                1. Execution always starts from main
-                2. A function gets called directly or indirectly from main
-                3. There can be multiple function in a program
+                1. Execution always starts from the main
+                2. A function gets called directly or indirectly from the main
+                3. There can be multiple functions in a program
 
         Function Types:
                 1. Library function - Special functions inbuilt in c  scanf(), printf()
-                2. User-defined - delcared & defined by programmer
+                2. User-defined - declared & defined by the programmer
 
         Passing Argument:
             functions can take value & give some value.
@@ -48,7 +48,7 @@
                     int sum(int a,int b);
                 Note:
                     1. Function can only return one value at a time
-                    2. Changes to parameters in function don't change the values in calling function.
+                    2. Changes to parameters in the function don't change the values in the calling function.
 
     Recursion:- When a function calls itself, it's called recursion
 */
