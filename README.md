@@ -10,19 +10,18 @@ Basics of C: Introduction to syntax, data types, and operators.
 
 Advanced Topics: Covers pointers, memory management, and dynamic memory allocation
 
-    Code Examples: Practical examples for different concepts.
+`Code Examples: Practical examples for different concepts.`
 
 # Resources
 
-Books:
-        <br>
-        "The C Programming Language" by Brian W. Kernighan and Dennis M. Ritchie
-        <br>
-        "C Primer Plus" by Stephen Prata
+**Books:**
+<br>
+"The C Programming Language" by Brian W. Kernighan and Dennis M. Ritchie
+<br>
+"C Primer Plus" by Stephen Prata
 
-
-Website:
-        <br>
-        [GeeksforGeeks](https://www.geeksforgeeks.org/c-programming-language/)
-        <br>
-        [W3Schools](https://www.w3schools.com/c/index.php)
+**Website:**
+<br>
+[GeeksforGeeks](https://www.geeksforgeeks.org/c-programming-language/)
+<br>
+[W3Schools](https://www.w3schools.com/c/index.php)
